@@ -2,4 +2,4 @@
 
 
 ## Useful Links
-(Framer Gallery)[http://framerjs.com/gallery/]
+(http://framerjs.com/gallery/)[Framer Gallery]
