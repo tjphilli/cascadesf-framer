@@ -4,8 +4,14 @@
 
 ## Useful Links
 
+
+### Get Started
+- [Framer Basics](http://framerjs.com/learn/basics/)
+- [Framer Docs](http://framerjs.com/docs/)
+- [CoffeeScript Docs](http://coffeescript.org/)
+
+### Dive Deeper
 - [Framer Gallery](http://framerjs.com/gallery/)
 - [Framer Facebook Group](https://www.facebook.com/groups/framerjs/)
 - [Framer Code](http://framerco.de/)
-- [Framer Docs](http://framerjs.com/docs/)
-- [CoffeeScript Docs](http://coffeescript.org/)
+
